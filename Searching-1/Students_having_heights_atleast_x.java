@@ -1,6 +1,4 @@
 import java.util.*;
-
-//Few bugs...passing 2/3 testcases....will look into it next day.
 class Students_having_heights_atleast_x {
 
     public static int binarySearch(int[] arr,int target,int low,int high) {
@@ -25,6 +23,7 @@ class Students_having_heights_atleast_x {
             int temp = in.nextInt();
             int indx = binarySearch(a,temp,0,n-1);
             ans[i] = (n-indx);
+            if(a[indx] != temp && indx == n-1) ans[i] = ans[i] - 1;
         }
         for(int i : ans)
         System.out.println(i);
