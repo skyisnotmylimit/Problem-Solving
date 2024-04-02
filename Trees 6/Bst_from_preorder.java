@@ -10,8 +10,8 @@ class Solution {
         return root;
     }
     public TreeNode bstFromPreorder(int[] preorder) {
-        TreeNode root = new TreeNode(preorder[0]);
-        for(int i=1;i<preorder.length;i++) {
+        TreeNode root = null;
+        for(int i=0;i<preorder.length;i++) {
             TreeNode key = new TreeNode(preorder[i]);
             root = insert(root,key);
         }
