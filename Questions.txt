@@ -1,0 +1,112 @@
+Searching
+Searching 1(08.03.2024)
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+https://atcoder.jp/contests/abc231/tasks/abc231_c
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
+
+Searching 2(09.03.2024)
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+https://leetcode.com/problems/find-peak-element/description/
+https://leetcode.com/problems/sqrtx/description/
+https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1
+https://www.spoj.com/problems/AGGRCOW/ or https://www.geeksforgeeks.org/problems/aggressive-cows/1
+https://leetcode.com/problems/get-equal-substrings-within-budget/description/
+Searching 3(10.03.2024)
+You have given an array A having N elements and an integer S. You have to find a maximum number X such that the sum of all its subarrays of size X is less than or equal to S.
+Example Input:  
+    A = [1, 3, 4, 2]  
+    S = 7  
+Example Output:  
+    2  
+Explanation:  
+    All subarrays of size 2 have the sum less than 7.  
+    Subarays are :  
+    1. [1, 3]  
+    2. [3, 4]  
+    3. [4, 2]  
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
+https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557
+https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/
+I will cover the below question in a separate class. Don’t worry, but you can try.
+Deepthi loves cruises. She is going to visit the Caribbean on a Cruise. So, she thought of providing everyone who is traveling with her with lunch as well. Each food item is denoted by an integer ID. A lunch box contains exactly A food items. She has a list of food items with her denoted by an integer array B. She asked you to tell her the maximum number of lunchboxes she can prepare.
+
+Note:
+A lunch box can contain multiple same kinds of food items but the content of each lunch box should be the same.
+Example Input
+Input 1:
+A = 3, B = [1, 2, 3, 2, 6, 1, 3]
+Input 2:
+A = 4, B = [1, 3, 1, 3, 10, 3, 6, 6, 13]
+Example Output
+Output 1:
+2
+Output 2:
+1
+Example Explanation
+Explanation 1:
+She can choose the content to be [1, 2, 3] and prepare 2 lunchboxes
+Explanation 2:
+She can choose the content to be [1, 3, 3, 3]
+Searching 5(16.03.2024)
+https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+https://www.interviewbit.com/problems/matrix-median/
+https://www.geeksforgeeks.org/find-the-nth-term-divisible-by-a-or-b-or-c/
+https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159
+https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1
+https://atcoder.jp/contests/abc172/tasks/abc172_c
+https://leetcode.com/problems/search-a-2d-matrix/description/
+
+
+
+Trees
+Trees 1 & 2(23.03.2024)
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/
+https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+https://www.geeksforgeeks.org/problems/odd-even-level-difference/1
+https://leetcode.com/problems/same-tree/description/
+https://www.codingninjas.com/studio/problems/tree-height_4609628
+https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+https://leetcode.com/problems/find-bottom-left-tree-value/description/
+https://www.geeksforgeeks.org/bottom-view-binary-tree/
+
+Trees 3(24.03.2024)
+https://www.codingninjas.com/studio/problems/left-view-of-binary-tree_625707
+https://leetcode.com/problems/binary-tree-right-side-view/
+https://leetcode.com/problems/binary-tree-paths/description/
+https://www.interviewbit.com/problems/path-to-given-node/
+https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/
+https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+https://leetcode.com/problems/invert-binary-tree/
+https://leetcode.com/problems/diameter-of-binary-tree/
+https://leetcode.com/problems/path-sum/description/
+https://leetcode.com/problems/path-sum-ii/
+https://leetcode.com/problems/path-sum-iii/
+
+Trees 4&5(31.03.2024)
+https://leetcode.com/problems/validate-binary-search-tree/description/
+https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+https://www.geeksforgeeks.org/problems/largest-bst/1
+https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
+https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
+https://leetcode.com/problems/range-sum-of-bst/description/
+https://www.geeksforgeeks.org/check-if-each-internal-node-of-a-bst-has-exactly-one-child/
+https://www.naukri.com/code360/problems/boundary-traversal-of-binary-tree_790725
+
+Trees 6(31.03.2024)
+https://leetcode.com/problems/recover-binary-search-tree/description/
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+https://www.geeksforgeeks.org/problems/binary-tree-to-cdll/1
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
+https://www.geeksforgeeks.org/problems/merge-two-bst-s/1
+
+
