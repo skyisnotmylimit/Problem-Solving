@@ -1,10 +1,10 @@
 //Q-2416@LeetCode
 class TrieNode {
-    Map<Character, TrieNode> links;
+    TrieNode links[];
     boolean isWord;
     int count;
     TrieNode() {
-        links = new HashMap<>();
+        links = new TrieNode[26];
         isWord = false;
         count = 0;
     }
@@ -14,11 +14,13 @@ class TrieNode {
     public void setEnd() {
         isWord = true;
     }
-    public void put(char ch, TrieNode node) {
-        links.put(ch, node);
+    public void put(TrieNode node,char ch) {
+        if(links[ch - 'a'] == null) {
+            links[ch - 'a'] = node;
+        }
     }
     public TrieNode get(char ch) {
-        return links.get(ch);
+        return links[ch - 'a'];
     }
     public void addCount() {
         count++;
@@ -28,22 +30,24 @@ class Solution {
     public int[] sumPrefixScores(String[] words) {
         int ans[] = new int[words.length];
         TrieNode root = new TrieNode();
-        for (String word : words) {
+        for(String word : words) {
             TrieNode node = root;
-            for (char ch : word.toCharArray()) {
-                node.links.putIfAbsent(ch, new TrieNode());
+            for(char ch : word.toCharArray()) {
+                if(node.get(ch) == null) {
+                    node.put(new TrieNode(),ch);
+                }
                 node = node.get(ch);
                 node.addCount();
             }
             node.setEnd();
         }
-        for (int i = 0; i < words.length; i++) {
+        for(int i=0;i<words.length;i++) {
             String word = words[i];
-            TrieNode node = root;
             int score = 0;
-            for (char ch : word.toCharArray()) {
+            TrieNode node = root;
+            for(char ch : word.toCharArray()) {
                 node = node.get(ch);
-                score += node.count;
+                score = score + node.count;
             }
             ans[i] = score;
         }
