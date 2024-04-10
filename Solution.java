@@ -32,6 +32,7 @@ class Solution {
         //Construct Trie
         for(String s : dict) {
             TrieNode node = root;
+            node.addPrefix(s);
             for(char ch : s.toCharArray()) {
                 if(node.get(ch) == null) {
                     node.put(new TrieNode(),ch);
@@ -42,18 +43,19 @@ class Solution {
             node.setEnd();
         }
         TrieNode node = root;
-        while(true) {
-            System.out.println("Enter a Character : ");
-            char ch = in.next().charAt(0);
-            if(ch < 97 && ch > 122)
-            break;
-            if(node.get(ch) == null) {
-                System.out.println("No words present to suggest !!");
-                break;
-            }
-            node = node.get(ch);
-            System.out.println(node.commonPrefix);
-        }
+        // while(true) {
+        //     System.out.println("Enter a Character : ");
+        //     char ch = in.next().charAt(0);
+        //     if(ch < 97 && ch > 122)
+        //     break;
+        //     if(node.get(ch) == null) {
+        //         System.out.println("No words present to suggest !!");
+        //         break;
+        //     }
+        //     node = node.get(ch);
+        //     System.out.println(node.commonPrefix);
+        // }
+        System.out.println(node.commonPrefix);
         in.close();
     }
 }
