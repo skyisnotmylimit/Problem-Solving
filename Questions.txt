@@ -129,34 +129,34 @@ https://www.hackerearth.com/problem/algorithm/subarrays-xor/ (ignore if you have
 
 Graphs
 Graphs 1(13.04.2024)
-https://leetcode.com/problems/find-if-path-exists-in-graph/description/
-https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/
-https://leetcode.com/problems/number-of-provinces/description/
-https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
-https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/
+https://leetcode.com/problems/find-if-path-exists-in-graph/description/ <
+https://www.interviewbit.com/problems/largest-distance-between-nodes-of-a-tree/ 
+https://leetcode.com/problems/number-of-provinces/description/ <
+https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 <
+https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/ <
 
 Graphs 2(14.04.2024)
-https://leetcode.com/problems/surrounded-regions/description/
+https://leetcode.com/problems/surrounded-regions/description/ <
 https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/
-https://leetcode.com/problems/rotting-oranges/
+https://leetcode.com/problems/rotting-oranges/ <
 https://www.interviewbit.com/problems/valid-path/
-https://leetcode.com/problems/number-of-islands/description/
-https://www.interviewbit.com/problems/knight-on-chess-board/
-https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1
+https://leetcode.com/problems/number-of-islands/description/ <
+https://www.interviewbit.com/problems/knight-on-chess-board/ <
+https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1 <
 
 Graphs 3(18.04.2024)
-https://www.geeksforgeeks.org/problems/minimum-edges/1
-https://leetcode.com/problems/course-schedule/description/
-https://leetcode.com/problems/course-schedule-ii/description/
-https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/
+https://www.geeksforgeeks.org/problems/minimum-edges/1 <
+https://leetcode.com/problems/course-schedule/description/ <
+https://leetcode.com/problems/course-schedule-ii/description/ <
+https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/ <
 https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/
-https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1 <
 
 
 Graphs 4(19.04.2024)
-https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
-https://leetcode.com/problems/is-graph-bipartite/description/
-https://leetcode.com/problems/clone-graph/ (just practice once)
+https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1 <
+https://leetcode.com/problems/is-graph-bipartite/description/ <
+https://leetcode.com/problems/clone-graph/ (just practice once) <
 https://leetcode.com/problems/shortest-cycle-in-a-graph/description/ (try)
 https://codeforces.com/problemset/problem/1093/D
 
