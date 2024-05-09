@@ -160,4 +160,80 @@ https://leetcode.com/problems/clone-graph/ (just practice once) <
 https://leetcode.com/problems/shortest-cycle-in-a-graph/description/ (try)
 https://codeforces.com/problemset/problem/1093/D
 
+Graphs 5(21.04.2024)
+https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/ <
+https://leetcode.com/problems/path-with-maximum-probability/description/ <
+https://leetcode.com/problems/network-delay-time/description/ <
+https://leetcode.com/problems/path-with-minimum-effort/description/ <
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/ <
+https://leetcode.com/problems/cheapest-flights-within-k-stops/description/ <
+https://leetcode.com/problems/find-edges-in-shortest-paths/description/ (try)
+
+Graphs 6(21.04.2024)
+https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/
+https://leetcode.com/problems/min-cost-to-connect-all-points/description/
+https://leetcode.com/problems/redundant-connection-ii/description/
+
+Graphs 7(28.04.2024)
+https://leetcode.com/problems/redundant-connection/description/
+https://leetcode.com/problems/couples-holding-hands/description/
+https://leetcode.com/problems/process-restricted-friend-requests/
+
+Dynamic Programming
+Dynamic Programming 1(28.04.2024)
+https://leetcode.com/problems/climbing-stairs/description/
+https://leetcode.com/problems/jump-game-ii/description/
+https://leetcode.com/problems/perfect-squares/description/
+https://www.geeksforgeeks.org/problems/adjacents-are-not-allowed3528/1
+https://leetcode.com/problems/house-robber/
+https://leetcode.com/problems/house-robber-ii/
+https://leetcode.com/problems/solving-questions-with-brainpower/
+
+Dynamic Programming 2(28.04.2024)
+https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
+https://leetcode.com/problems/decode-ways/description/
+https://leetcode.com/problems/decode-ways-ii/description/ (try)
+https://www.geeksforgeeks.org/given-array-three-numbers-maximize-x-ai-y-aj-z-ak/
+
+Dynamic Programming 3(04.05.2024)
+https://leetcode.com/problems/coin-change/
+https://leetcode.com/problems/coin-change-ii/description/
+https://leetcode.com/problems/maximum-subarray/description/
+https://leetcode.com/problems/maximum-product-subarray/description/
+https://leetcode.com/problems/longest-increasing-subsequence/description/
+https://cses.fi/problemset/task/1633
+https://cses.fi/problemset/task/1634
+https://cses.fi/problemset/task/1636
+
+Dynamic Programming 4(04.05.2024)
+https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
+https://leetcode.com/problems/unique-paths/description/
+https://leetcode.com/problems/unique-paths-ii/
+https://leetcode.com/problems/minimum-path-cost-in-a-grid/
+https://leetcode.com/problems/minimum-path-sum/
+
+Dynamic Programming 5(05.05.2024)
+https://leetcode.com/problems/dungeon-game/
+https://leetcode.com/problems/longest-common-subsequence/
+https://leetcode.com/problems/shortest-common-supersequence/description/
+
+Miscellaneous
+Miscellaneous 1(23.04.2024)
+https://leetcode.com/problems/heaters/description/
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
+Miscellaneous 2(28.04.2024)
+https://leetcode.com/problems/fruit-into-baskets/description/
+https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/
+https://leetcode.com/problems/evaluate-division/description/
+https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/
+
+Miscellaneous 3(04.05.2024)
+https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/
+https://leetcode.com/problems/boats-to-save-people
+
+
+
 
